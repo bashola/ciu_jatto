@@ -2420,7 +2420,7 @@ a {
 }
 .cid-sSxTsYBSiD .mbr-section-title {
   text-align: left;
-  color: #e43f3f;
+  color: #ffffff;
 }
 .cid-sSxTsZzHO4 {
   padding-top: 2rem;
@@ -2445,6 +2445,14 @@ a {
 }
 .cid-sSxTKlGLy6 .mbr-section-subtitle {
   color: #4479d9;
+}
+.cid-sSxVTiLq1r {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-sSxVTiLq1r .mbr-section-subtitle {
+  color: #e43f3f;
 }
 .cid-sSxTt0bqsB {
   padding-top: 5rem;
